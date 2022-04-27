@@ -1,2 +1,2 @@
-# DeveSecOps-Impacta-Isael
-DeveSecOps-Aula02
+# DevSecOps-Impacta-Isael
+DevSecOps-Aula02
